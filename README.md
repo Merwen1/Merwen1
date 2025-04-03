@@ -22,3 +22,6 @@
 ---
 
 💡 _"Nothing is impossible with the right mindset and skills."_  
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=merwen1&theme=tokyo-night)
