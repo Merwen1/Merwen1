@@ -1,3 +1,4 @@
+<img src="https://github.com/merwen1/merwen1/blob/main/GH banner.png" alt="Mohammad Marwan Banner" width="100%">
 # Hi there, I'm Mohammad Marwan! 👋  
 
 🌐 **Web Developer | Fullstack Developer**  
