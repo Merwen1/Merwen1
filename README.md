@@ -13,7 +13,7 @@
 ## 🔗 Connect with Me  
 🌍 Portfolio: [merwen1.com](https://www.merwen1.com)  
 💼 LinkedIn: [Mohammad Marwan](https://www.linkedin.com/in/mohammad-marwan/)  
-📧 Email: [Your Email](mailto:m.marwan.078@gmail.com)  
+📧 Email: [m.marwan.078@gmail.com](mailto:m.marwan.078@gmail.com)  
 
 ## ⚡ GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=merwen1&show_icons=true&theme=tokyonight)
