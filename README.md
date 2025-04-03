@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Marwan! 👋  
 
-<!--
-**Merwen1/Merwen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Web Developer | Fullstack Developer**  
+💡 Passionate about building fast and scalable websites using **Next.js** and **React.js**  
+🚀 Always learning and solving challenges in the ever-evolving web world  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- **Frontend:** Next.js, React.js, Tailwind CSS  
+- **Backend:** Express.js, Node.js, MySQL, Prisma  
+- **State Management:** Redux  
+- **CMS:** Drupal  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me  
+🌍 Portfolio: [merwen1.com](https://www.merwen1.com)  
+💼 LinkedIn: [Your LinkedIn](#)  
+📧 Email: [Your Email](#)  
+
+## ⚡ GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=merwen1&show_icons=true&theme=tokyonight)
+
+---
+
+💡 _"Nothing is impossible with the right mindset and skills."_  
