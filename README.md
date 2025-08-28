@@ -19,4 +19,7 @@
 
 💡 _"Nothing is impossible with the right mindset and skills."_  
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=radical)
 
